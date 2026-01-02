@@ -25,8 +25,8 @@
   - **Lattice_GIF** – GIF files of the lattice evolution for single realization.
 
 - **RMSD analysis** – contains PNG files of the RMSD plots in following folders:
-  -**ODE_vs_SSA**
-  -**ODE_vs_pCA**
+  - **ODE_vs_SSA**
+  - **ODE_vs_pCA**
 - **FSA analysis** – contains PNG files of the FSA plots in following folders:
-  -**FSA_population_values**
-  -**FSA_population_distribution**
+  - **FSA_population_values**
+  - **FSA_population_distribution**
